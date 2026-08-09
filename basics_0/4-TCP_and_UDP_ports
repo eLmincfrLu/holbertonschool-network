@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Displays all active listening sockets
 sudo netstat -lpn
